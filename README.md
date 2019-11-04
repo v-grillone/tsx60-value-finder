@@ -12,3 +12,5 @@ For this analysis, I evaluate three fundamental components of a publicly-traded 
 3. Dividend Yield: The dividend yield is a key metric for a long term value investor as it allows for a long term strategy with a guaranteed amount of money returning to the investor annually, which can then be reinvested or allocated elsewhere.
 
 In the end, I created a few visualizations to better explain the findings.
+
+***For the total score metric, a lower score is better.
